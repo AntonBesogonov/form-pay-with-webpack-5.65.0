@@ -1,0 +1,11 @@
+/.vscode
+/css
+/fonts
+/img
+/index.html
+/js
+/node_modules
+/package-lock.json
+/package.json
+/scss
+/webpack.config.js
